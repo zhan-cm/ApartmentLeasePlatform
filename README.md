@@ -59,8 +59,8 @@ lease/<br>
 ├── web/             # Web模块父工程<br>
 │   ├── web-admin/   # 后台管理系统（Mapper、Service、Controller）<br>
 │   └── web-app/     # 移动端服务（Mapper、Service、Controller）<br>
-├── rentHouseAdmin/  # 后台管理前端项目（Vue 3）<br>
-└── rentHouseH5/     # 移动端前端项目（Vue 3）<br>
+rentHouseAdmin/  # 后台管理前端项目（Vue 3）<br>
+rentHouseH5/     # 移动端前端项目（Vue 3）<br>
 ### 快速开始
 1. 环境准备
 JDK 17+
