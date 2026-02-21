@@ -85,8 +85,8 @@ MinIO
 
 4. 前端启动
 ### 项目预览
-<img width="2559" height="1299" alt="image" src="https://github.com/user-attachments/assets/739018ac-5312-475d-a15d-5fb14ee2abe7" />
-<img width="2559" height="1302" alt="image" src="https://github.com/user-attachments/assets/48d17192-4e65-4b07-acdb-6afdc0da1332" />
+<img width="2559" height="1299" alt="屏幕截图 2026-02-20 225606" src="https://github.com/user-attachments/assets/d4f24b19-dede-4938-b9a2-ccbb4c1f06d1" />
+<img width="2559" height="1302" alt="屏幕截图 2026-02-20 230333" src="https://github.com/user-attachments/assets/06fd92cd-f085-46da-ad55-61c4fa80b6bd" />
 
 
 
